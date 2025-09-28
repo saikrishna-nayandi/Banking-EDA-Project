@@ -39,4 +39,6 @@ The goal was to simulate a real-world workflow where raw data is transformed int
   - **Loyalty Classification Breakdown:** Ordered Jade → Diamond  
 - Used DAX measures for loan-to-deposit ratio and custom categorization.
 
----
+### 4. Check out my portfolio [here]
+(https://app.powerbi.com/view?r=eyJrIjoiOWQ1OWI3ZTctNzYzOS00NTZjLWFmNzItMzkwNmU2ZDYzNTlmIiwidCI6ImFkOTkyZjgyLTg2MjQtNDAzZS1hNTRiLTBhYTJlYjdkM2JlNyJ9).
+
